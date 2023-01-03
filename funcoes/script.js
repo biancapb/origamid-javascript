@@ -71,3 +71,6 @@ function dados() {
 
 console.log(dados()); // Retorna 'André, 29, Rio de Janeiro, Designer'
 //console.log(outrosDados()); // retorna um erro
+
+// HOISTING >>
+//Antes de executar uma função, o JS move todas as funções declaradas para a memória
